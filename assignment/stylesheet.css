@@ -1,25 +1,31 @@
 body {
-    color:white;
-    background-color: black;
+    background-color:rgb(195, 183, 183);
+    color:black;
 }
 
 header {
-    background-color: blue;
+    background-color:rgb(128, 0, 0);
+    color:white;
 }
 
 h2 {
-    background-color: bisque;
-    color:black;
+    background-color:yellow;
+    color:rgb(128, 0, 0);
 }
 
 h3 {
-    background-color: bisque;
-    color:black;
+    background-color: green;
+    color:yellow;
 }
 
 .info {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: white;
+    border: 2px solid black;
+}
 
+img {
+    padding: 40px;
 }
